@@ -2,14 +2,14 @@
 
 <img src="https://github.com/amym321/Face-Finder-frontend/blob/master/public/FaceApp6.jpg" width="600" >
 
-## Challenge 
+## Challenge  
 
-A building material supplier needed a reworked digital presence.
+Create an app utilizing an image recognition API, allow users to register and sign-in, and keep count of images.
 
-## Solution 
+## Solution
 
-Created a landing page conveying their major product categories as well as an interactive location map.
+A react app was utilized to provide a front-end interface as well as a backend server. The database with 2 login tables was created with PostgreSQL. The frontend loads images and collects register/sign-in information. The backend routes sign-in information to the database and API responses. The server was built with Node for non-blocking runtime, and Express for http requests.
 
-## Result 
+## Result
 
-The client now has a catchy website with the most pertinent company and product information for their customers.
+What resulted was a stylish frontend with full encryption for user login. Based on a class project.
